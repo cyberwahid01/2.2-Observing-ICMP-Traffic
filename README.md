@@ -3,7 +3,7 @@
 </p>
 
 <h1>Microsoft Azure Compute and Networking 🪟 - Observing ICMP Traffic (Internet Control Message Protocol)</h1>
-This section outlines the process of using Powershell within the Windows 10 Virtual Machine to send a Ping (Packet Internet Groper) request to the Linux Virtual Machine, and observing the resulting reply from the Linux Virtual Machine in Wireshark Network Protocol Analyzer. <br />
+This section outlines the process of using Powershell within the Windows 10 Virtual Machine to send a Ping (Packet Internet Groper) request to the Linux Virtual Machine, and observing the resulting reply from the Linux Virtual Machine in Wireshark Network Protocol Analyzer. <br /> (Link Back to Main Project Contents Page is at the Bottom of this Repo)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -57,3 +57,4 @@ This section outlines the process of using Powershell within the Windows 10 Virt
 <img src="https://imgur.com/d3DXlgU.png" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+LINK BACK TO THE MAIN PROJECT CONTENTS PAGE - https://github.com/cyberwahid01/Azure-Compute-and-Networking
